@@ -1,0 +1,7 @@
+Nome: João , Nota: 7.59
+Nome: Maria , Nota: 6.75
+Nome: José , Nota: 1.09
+Nome: Henrique , Nota: 10.0
+Nome: Cristiane , Nota: 10.09
+Nome: Camile , Nota: 4.09
+Nome: Vitória , Nota: 3.09

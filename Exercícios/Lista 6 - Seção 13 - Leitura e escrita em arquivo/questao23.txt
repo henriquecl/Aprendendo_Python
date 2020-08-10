@@ -1,0 +1,5 @@
+A profissão é:Encanador. E trabalha na empresa há: 5
+A profissão é:Pedreiro. E trabalha na empresa há: 10
+A profissão é:Gerente. E trabalha na empresa há: 15
+A profissão é:Presidente. E trabalha na empresa há: 20
+A profissão é:Coordenador. E trabalha na empresa há: 9
